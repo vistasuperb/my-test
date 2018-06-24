@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 
 Git track changes of files of files.
 
-I am created by branch dev
+I am created by branch feature1
